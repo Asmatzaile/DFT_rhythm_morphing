@@ -3,7 +3,7 @@ A Max/MSP patch for making rhythmic sequences that are produced via interpolatio
 
 
 ## Project motivation
-The interest for building this project was born in the classroom of the subject *Teoria musical del segle XX* (20th century musical theory) at [ESMUC](https://www.esmuc.cat/en/) (the Catalonia College of Music) in Barcelona with the professor [Thomas Noll](https://www.researchgate.net/profile/Thomas-Noll-3). Following Noll's lectures, I wondered whether it would be rhythmically interesting to morph between two rhythms via their spectral components, taking up the challenge of programming everything in the Max environment.
+The interest for building this project was born in the classroom of the subject *Teoria musical del segle XX* (20th Century Musical Theory) at [ESMUC](https://www.esmuc.cat/en/) (the Catalonia College of Music) in Barcelona with the professor [Thomas Noll](https://www.researchgate.net/profile/Thomas-Noll-3). Following Noll's lectures, I wondered whether it would be rhythmically interesting to morph between two rhythms via their spectral components, taking up the challenge of programming everything in the Max environment.
 
 
 ## Project description
