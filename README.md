@@ -2,6 +2,10 @@
 A Max/MSP patch for making rhythmic sequences that are produced via interpolation of the Fourier coefficients of two adjustable rhythms. The produced sequences can also be played with a canon-like offset.
 
 
+## Project motivation
+The interest for building this project was born in the classroom of the subject *Teoria musical del segle XX* (20th century musical theory) at [ESMUC](https://www.esmuc.cat/en/) (the Catalonia College of Music) in Barcelona with the professor [Thomas Noll](https://www.researchgate.net/profile/Thomas-Noll-3). Following Noll's lectures, I wondered whether it would be rhythmically interesting to morph between two rhythms via their spectral components, taking up the challenge of programming everything in the Max environment.
+
+
 ## Project description
 The presentation view of the patch is divided in four areas:
  - **Word generation** (top left)  
@@ -18,7 +22,7 @@ The presentation view of the patch is divided in four areas:
    In the final area, there are some controls to play the interpolated voices back, whose content becomes MIDI messages that are sent to the computer's MIDI synthesizer.
 
 
-## Code Structure
+## Code structure
  - **code:** Contains custom-made js code.
  - **patchers:** Contains custom-made patcher objects.
  - **thirdparty:** Contains the third party [complex.js](https://github.com/infusion/Complex.js) library.
